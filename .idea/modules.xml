@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\User\Desktop\projectmiahamlkaliormeafan-medical2-f0820c7c411a\magPro\MyApplication.iml" filepath="C:\Users\User\Desktop\projectmiahamlkaliormeafan-medical2-f0820c7c411a\magPro\MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magPro.iml" filepath="$PROJECT_DIR$/magPro.iml" />
+    </modules>
+  </component>
+</project>
